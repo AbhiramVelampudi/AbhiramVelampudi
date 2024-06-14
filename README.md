@@ -52,6 +52,9 @@
   <a href="https://www.hackerrank.com/profile/h2100032091" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
+  <a href="https://www.codechef.com/users/abhi_velamp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge"  />
+  </a>
 </div>
 
 ###
