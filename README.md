@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Velampudi Abhiram. I am a TensorFlow Developer Certified, 1X AWS Certified, Red Hat EX-183 Certified, and Full Stack Developer.</h2>
-<p>portfolio: https://abhiramvelampudi.github.io/abhi-portfolio.github.io/</p>
+<p>portfolio: https://abhiramvelampudi.github.io/portfolio.io/</p>
 
 ###
 
